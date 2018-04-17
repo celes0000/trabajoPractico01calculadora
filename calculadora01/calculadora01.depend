@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523672019 source:c:\users\anacl\desktop\programacion\utn\1er cuatri\programacion en c\tp01calculadora\calculadora01\func.c
+	<stdio.h>
+	<stdlib.h>
+
+1523672171 source:c:\users\anacl\desktop\programacion\utn\1er cuatri\programacion en c\tp01calculadora\calculadora01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1523671664 c:\users\anacl\desktop\programacion\utn\1er cuatri\programacion en c\tp01calculadora\calculadora01\func.h
+
